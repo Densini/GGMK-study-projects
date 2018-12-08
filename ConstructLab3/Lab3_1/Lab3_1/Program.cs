@@ -4,10 +4,10 @@ namespace Lab3_1
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.Write("Введите первое число = ");
-            int a = Convert.ToUInt16(Console.ReadLine());
+            int a = Convert.ToInt16(Console.ReadLine());
             Console.Write("Введите второе число = ");
             int b = Convert.ToUInt16(Console.ReadLine());
             if (a > b)

@@ -6,10 +6,10 @@ namespace Lab3_2
     {
         static void Main()
         {
-            int[] c = {1, 3, 5, 7, 11};
-            int i = 1, a, s = 0;
+            int[] c = { 1, 3, 5, 7, 11 };
+            int i = 1, s = 0;
             Console.Write("Введите элемент [" + i + "] = ");
-            a = Convert.ToInt16(Console.ReadLine());
+            int a = Convert.ToInt16(Console.ReadLine());
             i += 1;
             if (a == 0)
                 Console.WriteLine("Последовательность не может начинатся с символа '0'");
@@ -20,8 +20,8 @@ namespace Lab3_2
                         Console.Write("Введите элемент [" + i + "] = ");
                         a = Convert.ToInt16(Console.ReadLine());
                         i += 1;
-                        for (int i1 = 0; i1 < 5; i1++)
-                            if (c[i1] == i)
+                        for (int j = 0; j < 5; j++)
+                            if (c[j] == i)
                                 s += a;
                     }
                     while (a != 0);

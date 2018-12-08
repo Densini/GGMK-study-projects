@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Lab3_2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("GMTU")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Lab3_2")]
-[assembly: AssemblyCopyright("Copyright © GMTU 2018")]
+[assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("a09cf752-036d-4302-9187-9ae13564cdd3")]
+[assembly: Guid("a81238f6-8816-4f2c-8735-fe76cbb59fba")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
