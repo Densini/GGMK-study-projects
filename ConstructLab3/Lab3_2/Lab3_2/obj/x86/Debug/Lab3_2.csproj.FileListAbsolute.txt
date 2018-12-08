@@ -3,3 +3,7 @@ C:\Documents and Settings\Администратор\Рабочий стол\П�
 C:\Documents and Settings\Администратор\Рабочий стол\Программы\Lab3_2\Lab3_2\bin\Debug\Lab3_2.pdb
 C:\Documents and Settings\Администратор\Рабочий стол\Программы\Lab3_2\Lab3_2\obj\x86\Debug\Lab3_2.exe
 C:\Documents and Settings\Администратор\Рабочий стол\Программы\Lab3_2\Lab3_2\obj\x86\Debug\Lab3_2.pdb
+G:\Nova Via\КИЯП\Commit\ConstructLab3\Lab3_2\Lab3_2\obj\x86\Debug\Lab3_2.exe
+G:\Nova Via\КИЯП\Commit\ConstructLab3\Lab3_2\Lab3_2\obj\x86\Debug\Lab3_2.pdb
+G:\Nova Via\КИЯП\Commit\ConstructLab3\Lab3_2\Lab3_2\bin\Debug\Lab3_2.exe
+G:\Nova Via\КИЯП\Commit\ConstructLab3\Lab3_2\Lab3_2\bin\Debug\Lab3_2.pdb
