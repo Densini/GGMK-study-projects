@@ -4,17 +4,14 @@ namespace Lab1_1
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            int i;
-            double s, z;
-            i = 3;
-            s = 5.5;
-            z = s / i;
-            Console.WriteLine("i=" + i);
-            Console.WriteLine("s=" + s);
-            Console.WriteLine("z={0:0.000}", z);
-            Console.ReadLine();
+            int i = 3;
+            float s = 5.5f;
+            Console.WriteLine("i = " + i);
+            Console.WriteLine("s = " + s);
+            Console.WriteLine("z = {0:0.000}", s/i);
+            Console.ReadKey();
         }
     }
 }

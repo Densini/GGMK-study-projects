@@ -4,7 +4,7 @@ namespace Lab1_2
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Специальность: Обработка деловой и экономической информации");
             Console.WriteLine("Группа: ПК-22");
