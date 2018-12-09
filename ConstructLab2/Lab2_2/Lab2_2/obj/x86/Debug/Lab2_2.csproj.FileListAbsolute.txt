@@ -1,4 +1,0 @@
-G:\Nova Via\КИЯП\Commit\ConstructLab2\Lab2_2\Lab2_2\bin\Debug\Lab2_2.exe
-G:\Nova Via\КИЯП\Commit\ConstructLab2\Lab2_2\Lab2_2\bin\Debug\Lab2_2.pdb
-G:\Nova Via\КИЯП\Commit\ConstructLab2\Lab2_2\Lab2_2\obj\x86\Debug\Lab2_2.exe
-G:\Nova Via\КИЯП\Commit\ConstructLab2\Lab2_2\Lab2_2\obj\x86\Debug\Lab2_2.pdb

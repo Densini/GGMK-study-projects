@@ -6,15 +6,13 @@ namespace Lab2_1
     {
         static void Main()
         {
-            double s, r, h, v;
             Console.Write("Введите радиус R = ");
-            r = Convert.ToDouble(Console.ReadLine());
+            double r = Convert.ToDouble(Console.ReadLine());
             Console.Write("Введите высоту H = ");
-            h = Convert.ToDouble(Console.ReadLine());
-            s = 3.14 * r * 2;
-            v = s * h;
+            double h = Convert.ToDouble(Console.ReadLine());
+            double s = 3.14 * r * 2;
             Console.WriteLine("Площадь основания цилиндра = " + s);
-            Console.Write("Объем цилиндра = " + h);
+            Console.Write("Объем цилиндра = " + (s * h));
             Console.ReadKey();
         }
     }

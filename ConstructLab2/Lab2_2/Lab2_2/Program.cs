@@ -6,14 +6,13 @@ namespace Lab2_2
     {
         static void Main()
         {
-            double x, z, y;
             Console.Write("Введите координату X = ");
-            x = Convert.ToDouble(Console.ReadLine());
+            double x = Convert.ToDouble(Console.ReadLine());
             Console.Write("Введите координату Y = ");
-            y = Convert.ToDouble(Console.ReadLine());
+            double y = Convert.ToDouble(Console.ReadLine());
             Console.Write("Введите координату Z = ");
-            z = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Результат вычисления по формуле = {0:0.000}" + (x * (Math.Tan(z) + (2 * Math.Cos(y)))));
+            double z = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Результат вычисления по формуле = {0:0.000}" + (x * (Math.Tan(z) + 2 * Math.Cos(y))));
             Console.ReadKey();
         }
     }
