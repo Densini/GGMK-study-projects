@@ -1,13 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace Lab4_2
 {
     class Program
     {
-        static int fun(string a)
+        static int tickets(string a)
         {
             int a1 = 0, a2 = 0;
             for (int i = 0; i < 3; i++)
@@ -17,13 +14,13 @@ namespace Lab4_2
             if (a1 == a2)
                 return Convert.ToInt16(a);
         }
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Список счастливых билетов:");
             for (int i = 100000; i < 1000000; i++)
             {
                 string a = Convert.ToString(i);
-                Console.WriteLine(fun(a));
+                Console.WriteLine(tickets(a));
             }
         }
     }
